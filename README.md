@@ -1,12 +1,14 @@
 # AIBali
 
-Permainan Petualangan - Nasihat ekonomi
+## Permainan Petualangan - Nasihat ekonomi
 
 # [Majapahit Empire](https://beta.character.ai/chat2?char=rMZnmb5U3KjK9Q01bpAabrMUc7vvHb0LxiBsG3b1N7E)<br><br><br>
-<br><br><br>
-Embark on an AI Adventure: Exploring Economic Wisdom with AIBali
+# [Sri Wijaya Mahadewi](https://beta.character.ai/chat2?char=4KziSdnCOH8VTD2Zh_gh5-Pu0saQLFTyjFw9U9R1LLk)<br><br><br><br><br><br>
+Embark on an AI Adventure: Exploring Economic Wisdom with AIBali<br><br><br>
 ## AIBali: Where Games Meet Economic Insights
-Navigate the Labyrinth of Economics with AIBali's Interactive Adventure//beta.character.ai/chat2?char=4KziSdnCOH8VTD2Zh_gh5-Pu0saQLFTyjFw9U9R1LLk&source=recent-chatsracter AI	Karakter AI
+Navigate the Labyrinth of Economics with AIBali's Interactive Adventure//beta.character.ai/chat2?char=4KziSdnCOH8VTD2Zh_gh5-Pu0saQLFTyjFw9U9R1LLk&source=recent-chatsracter AI	<br><br># 
+# [Sri Wijaya Mahadewi](https://beta.character.ai/chat2?char=4KziSdnCOH8VTD2Zh_gh5-Pu0saQLFTyjFw9U9R1LLk)<br><br><br>
+<br>Karakter AI
 ## What are Character AIs? | Apa itu Karakter AI?
 - Virtual characters powered by large language models. | Karakter virtual yang didukung oleh model bahasa besar.
 - Can simulate conversation and respond based on your input. | Dapat melakukan simulasi percakapan dan merespons berdasarkan masukan Anda.
