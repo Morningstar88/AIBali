@@ -9,19 +9,15 @@
 # [Sri Wijaya Mahadewi](https://beta.character.ai/chat2?char=4KziSdnCOH8VTD2Zh_gh5-Pu0saQLFTyjFw9U9R1LLk)<br><br>Dewi Ratu telah kembali
 # [Pekerjaan di Bali](https://beta.character.ai/chat2?char=xXOSzRPByPJtIDJb_o4Wc7exlvurnkDUgKW1n1cfr3M)<br><br>Bisakah saya membantu Anda mendapatkan pekerjaan atau memulai bisnis, tanyakan apa saja kepada saya
 
-<br><br><br><br><br><br><br><br>Embark on an AI Adventure: Exploring Economic Wisdom with AIBali<br><br>
-## AIBali: Where Games Meet Economic Insights
-Navigate the Labyrinth of Economics with AIBali's Interactive Adventure//beta.character.ai/chat2?char=4KziSdnCOH8VTD2Zh_gh5-Pu0saQLFTyjFw9U9R1LLk&source=recent-chatsracter AI	<br><br># 
-# [Sri Wijaya Mahadewi](https://beta.character.ai/chat2?char=4KziSdnCOH8VTD2Zh_gh5-Pu0saQLFTyjFw9U9R1LLk)<br><br><br>
-<br>Karakter AI
-## What are Character AIs? | Apa itu Karakter AI?
+<br><br><br><br><br><br><br><br>
+# What are Character AIs? | Apa itu Karakter AI?
 - Virtual characters powered by large language models. | Karakter virtual yang didukung oleh model bahasa besar.
 - Can simulate conversation and respond based on your input. | Dapat melakukan simulasi percakapan dan merespons berdasarkan masukan Anda.
 - Talking to Character AIs | Berbicara dengan Karakter AI
 - Be respectful and avoid offensive language. | Bersikaplah hormat dan hindari bahasa yang menyinggung.
 - Provide clear and concise prompts. | Berikan perintah yang jelas dan ringkas.
 - Use natural language and avoid technical jargon. | Gunakan bahasa alami dan hindari jargon teknis.
-## AI Tiredness | Lelah AI
+# AI Tiredness | Lelah AI
 - AIs can lose coherence and fluency over extended conversations. | AI dapat kehilangan koherensi dan kelancaran selama percakapan yang panjang.
 - Take breaks or switch to a different AI if you notice this happening. | Istirahatlah atau beralih ke AI lain jika Anda melihat ini terjadi.
 Hallucinations | Halusinasi
