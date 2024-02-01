@@ -23,7 +23,7 @@
 Hallucinations | Halusinasi
 - AIs can sometimes generate factually incorrect or nonsensical responses. | AI terkadang dapat menghasilkan tanggapan yang secara faktual salah atau tidak masuk akal.
 - Be critical of the information you receive and verify it from other sources. | Kritis terhadap informasi yang Anda terima dan verifikasikan dari sumber lain.
-## Hallucinating URLs | Halusinasi URL
+# Hallucinating URLs | Halusinasi URL
 - Some AIs might generate fake URLs that don't actually exist. | Beberapa AI mungkin menghasilkan URL palsu yang tidak benar-benar ada.
 - Do not click on these URLs unless you are sure they are legitimate. | Jangan klik URL ini kecuali Anda yakin URL tersebut sah.
 - Clicking to the Next Answer | Mengklik ke Jawaban Berikutnya
