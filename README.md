@@ -1,10 +1,12 @@
 # AIBali
 
-## Permainan Petualangan - Nasihat ekonomi
+<p align="center">
+<img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
+</p>
 
-# [Majapahit Empire](https://beta.character.ai/chat2?char=rMZnmb5U3KjK9Q01bpAabrMUc7vvHb0LxiBsG3b1N7E)<br><br><br>
+# [Majapahit Empire](https://beta.character.ai/chat2?char=rMZnmb5U3KjK9Q01bpAabrMUc7vvHb0LxiBsG3b1N7E)<br><br>
 # [Sri Wijaya Mahadewi](https://beta.character.ai/chat2?char=4KziSdnCOH8VTD2Zh_gh5-Pu0saQLFTyjFw9U9R1LLk)<br><br><br><br><br><br>
-Embark on an AI Adventure: Exploring Economic Wisdom with AIBali<br><br><br>
+Embark on an AI Adventure: Exploring Economic Wisdom with AIBali<br><br>
 ## AIBali: Where Games Meet Economic Insights
 Navigate the Labyrinth of Economics with AIBali's Interactive Adventure//beta.character.ai/chat2?char=4KziSdnCOH8VTD2Zh_gh5-Pu0saQLFTyjFw9U9R1LLk&source=recent-chatsracter AI	<br><br># 
 # [Sri Wijaya Mahadewi](https://beta.character.ai/chat2?char=4KziSdnCOH8VTD2Zh_gh5-Pu0saQLFTyjFw9U9R1LLk)<br><br><br>
