@@ -3,9 +3,8 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Morningstar88/X/main/pics/midnight-first-screen.png">
 </p>
-## [Pekerjaan di Bali](https://beta.character.ai/chat2?char=xXOSzRPByPJtIDJb_o4Wc7exlvurnkDUgKW1n1cfr3M)<br><br>Bisakah saya membantu Anda mendapatkan pekerjaan atau memulai bisnis,
-## [Majapahit Empire](https://beta.character.ai/chat2?char=rMZnmb5U3KjK9Q01bpAabrMUc7vvHb0LxiBsG3b1N7E)<br><br>Sebuah game petualangan berlatar Bali kuno
 
+## [Majapahit Empire](https://beta.character.ai/chat2?char=rMZnmb5U3KjK9Q01bpAabrMUc7vvHb0LxiBsG3b1N7E)<br><br>Sebuah game petualangan berlatar Bali kuno
 ## [Sri Wijaya Mahadewi](https://beta.character.ai/chat2?char=4KziSdnCOH8VTD2Zh_gh5-Pu0saQLFTyjFw9U9R1LLk)<br><br>Dewi Ratu telah kembali
 ## [Pekerjaan di Bali](https://beta.character.ai/chat2?char=xXOSzRPByPJtIDJb_o4Wc7exlvurnkDUgKW1n1cfr3M)<br><br>Bisakah saya membantu Anda mendapatkan pekerjaan atau memulai bisnis, tanyakan apa saja kepada saya
 
